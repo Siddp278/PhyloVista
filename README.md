@@ -63,7 +63,7 @@ streamlit run phylovista_app.py
 
 - This will start the ```Streamlit development server```, and the application will be accessible in your web browser at : [http://localhost:8501/](http://localhost:8501/)
 
-## Sequence Input
+## Features
 ### Add Sequence-by-sequence:
 - Enter sequences manually in the A, C, T, G format, one sequence per line.
 - Click "Create Tree" to construct the phylogenetic tree.
